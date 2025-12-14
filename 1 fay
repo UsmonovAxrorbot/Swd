@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <title>Axror Sayti</title>
+  <style>
+    body{font-family:Arial;background:#f4f4f4;margin:0}
+    header{background:#0d6efd;color:#fff;padding:20px;text-align:center}
+    section{background:#fff;margin:15px;padding:15px;border-radius:8px}
+    footer{background:#222;color:#fff;text-align:center;padding:10px}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Axror Web Sayti</h1>
+  <p>Mening birinchi onlayn saytim</p>
+</header>
+
+<section>
+  <h2>Xizmatlar</h2>
+  <p>Sayt yaratish, Telegram bot, IT xizmatlar</p>
+</section>
+
+<section>
+  <h2>Aloqa</h2>
+  <p>📞 Tel: +998 90 000 00 00</p>
+  <p>📩 Telegram: @UsmonovAxrorbot</p>
+</section>
+
+<footer>
+  <p>© 2025 Axror</p>
+</footer>
+
+</body>
+</html>
